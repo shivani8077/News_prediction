@@ -1,21 +1,11 @@
-# News_prediction
-This portfolio repository is created on 02 dec 2024.
 # Fake News Prediction Using Machine Learning  
 
-![Project Banner](https://via.placeholder.com/800x200.png?text=Fake+News+Prediction+App)  
+**Predicting Fake News Using Machine Learning** is a project designed to combat misinformation by leveraging machine learning techniques. It uses a **Naive Bayes** classifier trained on text data to distinguish between **real** and **fake** news articles. This project also includes **Web application using Streamlit** where users can enter news content and receive immediate classification results.
 
-## Overview  
-This project aims to tackle the growing problem of misinformation by developing a machine-learning-based app to classify news as **REAL** or **FAKE**.  
-
-The app is built using **Streamlit** and leverages a trained Naive Bayes model to provide accurate predictions.  
-
-## Features  
-- 📰 User-friendly interface for inputting news content.  
-- 🤖 Real-time classification of news as **REAL** or **FAKE**.  
-- 📊 Machine learning-backed predictions using Natural Language Processing (NLP).  
-
-## Demo  
-[Insert Screenshot or Demo Video Link Here]  
+#Features 
+**Email Classification:** Enter an News and classify it as either Fake or Not Fake(Real).
+**Model Performance:** View accuracy and classification report on the dataset.
+**User-Friendly Interface:** 
 
 ## Installation  
 
