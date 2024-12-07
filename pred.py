@@ -25,4 +25,4 @@ if st.button("Classify"):
         else:
                 st.success("This is a REAL News")
     else:
-        st.error("Please enter some News content to classify.")
+        st.error("Please Enter some News content to classify.")
