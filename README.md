@@ -17,5 +17,5 @@
 ### Setup  
 1. Clone this repository:  
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/shivani8077/News_prediction 
+   cd News_prediction
