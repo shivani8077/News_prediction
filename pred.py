@@ -21,8 +21,8 @@ if st.button("Classify"):
         input_vector = vectorizer.transform([user_input])
         prediction = model.predict(input_vector)[0]
         if prediction==0:
-                st.success("This is a FAKE News")
+                st.error("This is a FAKE News")
         else:
-                st.error("This is a REAL News")
+                st.success("This is a REAL News")
     else:
-        st.write("Please enter some news content to classify.")
+        st.error("Please enter some news content to classify.")
