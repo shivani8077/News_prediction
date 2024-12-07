@@ -1,6 +1,4 @@
 import streamlit as st
-# from sklearn.feature_extraction.text import CountVectorizer
-# from sklearn.naive_bayes import MultinomialNB
 import pickle
 
 # Load trained model and vectorizer (these need to be saved beforehand)
